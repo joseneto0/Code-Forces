@@ -57,7 +57,7 @@ void solve(){
         cin >> op;
         if (op == 1){
             cin >> l >> r;
-            update()
+            for (int i =)
             l--; r--;
         } else {
             cin >> l;
